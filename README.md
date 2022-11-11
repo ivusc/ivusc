@@ -1,7 +1,9 @@
 
 <div align='center'>
-  
-  <h1>Hi, I'm Ivus! 👋</h1>
+
+![](programmer.svg)
+
+# Hi, I'm Ivus! 👋
 
 🔭 I’m currently an engineering student<br/>
 🌱 I’m currently learning Full Stack Development<br/>
