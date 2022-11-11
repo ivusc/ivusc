@@ -1,7 +1,7 @@
 
 <div align='center'>
 
-![](programmer.svg)
+<img src="programmer.svg" alt="drawing" width="400"/>
 
 # Hi, I'm Ivus! 👋
 
