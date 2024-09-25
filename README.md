@@ -1,8 +1,6 @@
 
 <div align='center'>
 
-<img src="programmer.svg" alt="drawing" width="400"/>
-
 # Hi, I'm Ivus! 👋
 
 🔭 I’m currently an engineering student<br/>
