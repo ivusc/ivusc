@@ -1,8 +1,8 @@
 <img src='./banner.jpg'>
 
-# Hi there, I'm Ivus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Helloo, I'm Ivus! <img src="./wave.gif" width="25px"></a>
 
-🔭 I’m a Informations Systems Undergraduate @ SMU.<br/>
+🔭 I’m a Informations Systems Undergraduate @ Singapore Management University.<br/>
 🌱 I’m currently learning Full Stack Development<br/>
 👯 I’m looking to collaborate on projects!<br/>
 📫 How to reach me: Email me or connect with me on LinkedIn!<br/>
@@ -27,7 +27,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
 
-# 📱 Socials 
+## 📱 Socials 
 
 [![Portfolio](https://img.shields.io/badge/Website-000)](https://ivusc.me)  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ivus-chua/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ivuschua@gmail.com)
 
